@@ -73,7 +73,7 @@ src/main/java/be/url_backend
 
 ### [ Deep-Dive 1 ] 대규모 리디렉션 트래픽 및 RDBMS I/O 병목 방어
 
-<img width="1112" height="1062" alt="image" src="https://github.com/user-attachments/assets/03452372-6958-4371-a269-8de77f967291" />
+<img width="1112" height="1062" alt="image" src="https://github.com/user-attachments/assets/2b722d5c-03dd-4f70-b77e-ad0a9b44533c" />
 
 * **문제 원인**
 		* 단축 URL 리디렉션 피크 트래픽 집중과 RDBMS I/O 병목 ➔ 단일 쿼리 매핑 지연 및 P95 지연 6.23초 병목 현상 식별
